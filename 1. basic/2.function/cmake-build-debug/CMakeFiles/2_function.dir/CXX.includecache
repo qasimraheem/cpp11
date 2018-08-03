@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/Desktop/cpp11/1. basic/2.function/main.cpp
+iostream
+-
+math.h
+/Users/qasim/Desktop/cpp11/1. basic/2.function/math.h
+
+/Users/qasim/Desktop/cpp11/1. basic/2.function/math.cpp
+
+/Users/qasim/Desktop/cpp11/1. basic/2.function/math.h
+
