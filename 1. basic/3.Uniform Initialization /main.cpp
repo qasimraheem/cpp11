@@ -17,5 +17,7 @@ int main() {
 
     int array[5]={1,2,3,4,5};
 
+    std::initializer_list <int> list {1,2,3,4,5};
+
     return 0;
 }
