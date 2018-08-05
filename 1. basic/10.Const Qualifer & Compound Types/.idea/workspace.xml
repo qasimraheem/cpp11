@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="9_const_qualifier" targetName="9_const_qualifier" />
+      <config projectName="10_Const_Qualifer___Compound_Types" targetName="10_Const_Qualifer___Compound_Types" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="453512d4-c7e5-4be1-a0d4-f8347b69ea1d" name="Default" comment="" />
+    <list default="true" id="0ddb4b1a-1cbe-4b9f-a58d-67aa2483f9e7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="344">
+              <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -42,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
@@ -66,8 +65,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,12 +86,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.9_const_qualifier">
-    <configuration name="9_const_qualifier" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="9_const_qualifier" TARGET_NAME="9_const_qualifier" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="9_const_qualifier" RUN_TARGET_NAME="9_const_qualifier" />
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="9_const_qualifier" RUN_TARGET_NAME="9_const_qualifier" EXPLICIT_BUILD_TARGET_NAME="all" />
+  <component name="RunManager" selected="Application.10_Const_Qualifer___Compound_Types">
+    <configuration name="10_Const_Qualifer___Compound_Types" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="10_Const_Qualifer___Compound_Types" TARGET_NAME="10_Const_Qualifer___Compound_Types" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="10_Const_Qualifer___Compound_Types" RUN_TARGET_NAME="10_Const_Qualifer___Compound_Types" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="10_Const_Qualifer___Compound_Types" RUN_TARGET_NAME="10_Const_Qualifer___Compound_Types" EXPLICIT_BUILD_TARGET_NAME="all" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.9_const_qualifier" />
+      <item itemvalue="Application.10_Const_Qualifer___Compound_Types" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -100,17 +99,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="453512d4-c7e5-4be1-a0d4-f8347b69ea1d" name="Default" comment="" />
-      <created>1533452834359</created>
+      <changelist id="0ddb4b1a-1cbe-4b9f-a58d-67aa2483f9e7" name="Default" comment="" />
+      <created>1533455710365</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533452834359</updated>
-      <workItem from="1533452835547" duration="732000" />
+      <updated>1533455710365</updated>
+      <workItem from="1533455711608" duration="5331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="732000" />
+    <option name="totallyTimeSpent" value="5331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1107" extended-state="0" />
@@ -121,7 +120,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32970297" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -142,14 +141,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="344">
+          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
         </state>
       </provider>
     </entry>
