@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="10_Const_Qualifer___Compound_Types" targetName="10_Const_Qualifer___Compound_Types" />
+      <config projectName="11_Const_Assignment" targetName="11_Const_Assignment" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ddb4b1a-1cbe-4b9f-a58d-67aa2483f9e7" name="Default" comment="" />
+    <list default="true" id="3b2116e0-8af2-46a7-a481-28465949fffb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -55,7 +55,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
     <option name="height" value="1107" />
@@ -86,12 +86,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.10_Const_Qualifer___Compound_Types">
-    <configuration name="10_Const_Qualifer___Compound_Types" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="10_Const_Qualifer___Compound_Types" TARGET_NAME="10_Const_Qualifer___Compound_Types" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="10_Const_Qualifer___Compound_Types" RUN_TARGET_NAME="10_Const_Qualifer___Compound_Types" />
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="10_Const_Qualifer___Compound_Types" RUN_TARGET_NAME="10_Const_Qualifer___Compound_Types" EXPLICIT_BUILD_TARGET_NAME="all" />
+  <component name="RunManager" selected="Application.11_Const_Assignment">
+    <configuration name="11_Const_Assignment" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="11_Const_Assignment" TARGET_NAME="11_Const_Assignment" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="11_Const_Assignment" RUN_TARGET_NAME="11_Const_Assignment" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="11_Const_Assignment" RUN_TARGET_NAME="11_Const_Assignment" EXPLICIT_BUILD_TARGET_NAME="all" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.10_Const_Qualifer___Compound_Types" />
+      <item itemvalue="Application.11_Const_Assignment" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -99,17 +99,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ddb4b1a-1cbe-4b9f-a58d-67aa2483f9e7" name="Default" comment="" />
-      <created>1533455710365</created>
+      <changelist id="3b2116e0-8af2-46a7-a481-28465949fffb" name="Default" comment="" />
+      <created>1533541997464</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533455710365</updated>
-      <workItem from="1533455711608" duration="5934000" />
+      <updated>1533541997464</updated>
+      <workItem from="1533541998839" duration="291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5934000" />
+    <option name="totallyTimeSpent" value="291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1107" extended-state="0" />
@@ -120,12 +120,12 @@
       <window_info anchor="bottom" id="Messages" weight="0.32970297" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32970297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -141,19 +141,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
