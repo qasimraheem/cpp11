@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="17_Function_Pointers" targetName="17_Function_Pointers" />
+      <config projectName="18_Namespace" targetName="18_Namespace" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceceb188-54fe-4f73-80ec-ed018e571fb0" name="Default" comment="" />
+    <list default="true" id="88fd565e-8c20-493a-8c2a-06d9fc1ca1ad" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="509">
+              <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -65,8 +65,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,12 +86,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.17_Function_Pointers">
-    <configuration name="17_Function_Pointers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="17_Function_Pointers" TARGET_NAME="17_Function_Pointers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="17_Function_Pointers" RUN_TARGET_NAME="17_Function_Pointers" />
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="17_Function_Pointers" RUN_TARGET_NAME="17_Function_Pointers" EXPLICIT_BUILD_TARGET_NAME="all" />
+  <component name="RunManager" selected="Application.18_Namespace">
+    <configuration name="18_Namespace" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="18_Namespace" TARGET_NAME="18_Namespace" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="18_Namespace" RUN_TARGET_NAME="18_Namespace" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="18_Namespace" RUN_TARGET_NAME="18_Namespace" EXPLICIT_BUILD_TARGET_NAME="all" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.17_Function_Pointers" />
+      <item itemvalue="Application.18_Namespace" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -99,17 +99,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ceceb188-54fe-4f73-80ec-ed018e571fb0" name="Default" comment="" />
-      <created>1533990134671</created>
+      <changelist id="88fd565e-8c20-493a-8c2a-06d9fc1ca1ad" name="Default" comment="" />
+      <created>1533995010182</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533990134671</updated>
-      <workItem from="1533990135854" duration="2530000" />
+      <updated>1533995010182</updated>
+      <workItem from="1533995011396" duration="1667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2530000" />
+    <option name="totallyTimeSpent" value="1667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1107" extended-state="0" />
@@ -120,12 +120,12 @@
       <window_info anchor="bottom" id="Messages" weight="0.32970297" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -141,19 +141,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="509">
+          <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
         </state>
       </provider>
     </entry>
