@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="21_Dynamic_Memory_Allocation_new___" targetName="21_Dynamic_Memory_Allocation_new___" />
+      <config projectName="22_Dynamic_Memory__2D_Array_" targetName="22_Dynamic_Memory__2D_Array_" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c9e8852-a0c1-49c3-ad03-0bd3ffa28e68" name="Default" comment="" />
+    <list default="true" id="d1ae754e-1f80-45e5-afc6-cc82cf64ff9d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -65,8 +65,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,65 +87,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.21_Dynamic_Memory_Allocation_new___">
-    <configuration name="21_Dynamic_Memory_Allocation_new___" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="21_Dynamic_Memory_Allocation_new___" TARGET_NAME="21_Dynamic_Memory_Allocation_new___" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="21_Dynamic_Memory_Allocation_new___" RUN_TARGET_NAME="21_Dynamic_Memory_Allocation_new___" />
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="21_Dynamic_Memory_Allocation_new___" RUN_TARGET_NAME="21_Dynamic_Memory_Allocation_new___" EXPLICIT_BUILD_TARGET_NAME="all" />
+  <component name="RunManager" selected="Application.22_Dynamic_Memory__2D_Array_">
+    <configuration name="22_Dynamic_Memory__2D_Array_" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="22_Dynamic_Memory__2D_Array_" TARGET_NAME="22_Dynamic_Memory__2D_Array_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="22_Dynamic_Memory__2D_Array_" RUN_TARGET_NAME="22_Dynamic_Memory__2D_Array_" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="22_Dynamic_Memory__2D_Array_" RUN_TARGET_NAME="22_Dynamic_Memory__2D_Array_" EXPLICIT_BUILD_TARGET_NAME="all" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.21_Dynamic_Memory_Allocation_new___" />
+      <item itemvalue="Application.22_Dynamic_Memory__2D_Array_" />
     </list>
-  </component>
-  <component name="StructureViewFactory">
-    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c9e8852-a0c1-49c3-ad03-0bd3ffa28e68" name="Default" comment="" />
-      <created>1534050624612</created>
+      <changelist id="d1ae754e-1f80-45e5-afc6-cc82cf64ff9d" name="Default" comment="" />
+      <created>1534052088066</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534050624612</updated>
-      <workItem from="1534050625834" duration="1375000" />
+      <updated>1534052088066</updated>
+      <workItem from="1534052089300" duration="1326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1375000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="1326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1107" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.25239617" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32970297" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32970297" />
-      <window_info anchor="bottom" id="CMake" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32970297" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info id="Structure" order="1" sideWeight="0.5009901" side_tool="true" visible="true" weight="0.25239617" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="right" id="Debug" order="3" weight="0.19808307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +144,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -165,8 +153,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
