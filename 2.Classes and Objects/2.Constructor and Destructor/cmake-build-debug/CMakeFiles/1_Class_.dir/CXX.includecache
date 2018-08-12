@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/2.Constructor and Destructor/Student.cpp
+Student.h
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/2.Constructor and Destructor/Student.h
+
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/2.Constructor and Destructor/Student.h
+string
+-
+iostream
+-
+
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/2.Constructor and Destructor/main.cpp
+iostream
+-
+Student.h
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/2.Constructor and Destructor/Student.h
+
