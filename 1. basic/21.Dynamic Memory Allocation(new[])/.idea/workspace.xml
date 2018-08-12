@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="20_Dynamic_Memory_Allocation_new_" targetName="20_Dynamic_Memory_Allocation_new_" />
+      <config projectName="21_Dynamic_Memory_Allocation_new___" targetName="21_Dynamic_Memory_Allocation_new___" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceb8e791-2ec5-4a09-a06d-ac1c190faeef" name="Default" comment="" />
+    <list default="true" id="9c9e8852-a0c1-49c3-ad03-0bd3ffa28e68" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,9 +21,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="FavoritesManager">
-    <favorites_list name="20_Dynamic_Memory_Allocation_new_" />
-  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
@@ -34,8 +31,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -76,7 +73,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="language.cpp.clang-tidy" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,30 +87,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.20_Dynamic_Memory_Allocation_new_">
-    <configuration name="20_Dynamic_Memory_Allocation_new_" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="20_Dynamic_Memory_Allocation_new_" TARGET_NAME="20_Dynamic_Memory_Allocation_new_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="20_Dynamic_Memory_Allocation_new_" RUN_TARGET_NAME="20_Dynamic_Memory_Allocation_new_" />
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="20_Dynamic_Memory_Allocation_new_" RUN_TARGET_NAME="20_Dynamic_Memory_Allocation_new_" EXPLICIT_BUILD_TARGET_NAME="all" />
+  <component name="RunManager" selected="Application.21_Dynamic_Memory_Allocation_new___">
+    <configuration name="21_Dynamic_Memory_Allocation_new___" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="21_Dynamic_Memory_Allocation_new___" TARGET_NAME="21_Dynamic_Memory_Allocation_new___" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="21_Dynamic_Memory_Allocation_new___" RUN_TARGET_NAME="21_Dynamic_Memory_Allocation_new___" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="21_Dynamic_Memory_Allocation_new___" RUN_TARGET_NAME="21_Dynamic_Memory_Allocation_new___" EXPLICIT_BUILD_TARGET_NAME="all" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.20_Dynamic_Memory_Allocation_new_" />
+      <item itemvalue="Application.21_Dynamic_Memory_Allocation_new___" />
     </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ceb8e791-2ec5-4a09-a06d-ac1c190faeef" name="Default" comment="" />
-      <created>1533999546901</created>
+      <changelist id="9c9e8852-a0c1-49c3-ad03-0bd3ffa28e68" name="Default" comment="" />
+      <created>1534050624612</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533999546901</updated>
-      <workItem from="1533999548080" duration="1481000" />
+      <updated>1534050624612</updated>
+      <workItem from="1534050625834" duration="849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1481000" />
+    <option name="totallyTimeSpent" value="849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -128,24 +128,24 @@
     <frame x="0" y="22" width="1920" height="1107" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.48910892" visible="true" weight="0.25239617" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.25239617" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32970297" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32970297" />
       <window_info anchor="bottom" id="CMake" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.51155114" weight="0.24950495" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info active="true" id="Structure" order="2" sideWeight="0.5108911" side_tool="true" visible="true" weight="0.25239617" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32970297" />
-      <window_info anchor="right" id="Debug" order="3" side_tool="true" weight="0.19914803" />
-      <window_info id="Favorites" order="0" sideWeight="0.50073856" side_tool="true" weight="0.24960506" />
+      <window_info id="Structure" order="1" sideWeight="0.50073856" side_tool="true" visible="true" weight="0.25239617" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="right" id="Debug" order="3" visible="true" weight="0.19808307" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +156,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -165,8 +165,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
