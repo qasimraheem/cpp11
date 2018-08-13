@@ -5,7 +5,7 @@
 #include "Student.h"//linking Student.h
 
 Student::Student() {//constructor
-    cout<<"Student";
+    cout<<"\nStudent";
     name="";
     age=0;
     points=0;
@@ -16,7 +16,7 @@ Student::Student(string name) {//constructor by arguments
     points=0;
 }
 Student::~Student() {//destructor
-    cout<<"~Student";
+    cout<<"\n~Student";
 }
 //defining functions of Student class
 void Student::setname(string name){
