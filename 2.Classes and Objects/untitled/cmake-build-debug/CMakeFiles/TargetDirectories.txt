@@ -1,3 +1,0 @@
-/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug/CMakeFiles/untitled.dir

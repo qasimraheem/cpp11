@@ -1,4 +1,4 @@
-# Install script for directory: /Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled
+# Install script for directory: /Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

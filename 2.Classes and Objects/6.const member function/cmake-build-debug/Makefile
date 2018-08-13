@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled"
+CMAKE_SOURCE_DIR = "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug/CMakeFiles" "/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/cmake-build-debug/CMakeFiles" "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named untitled
+# Target rules for targets named 1_Class_
 
 # Build rule for target.
-untitled: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 untitled
-.PHONY : untitled
+1_Class_: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1_Class_
+.PHONY : 1_Class_
 
 # fast build rule for target.
-untitled/fast:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
-.PHONY : untitled/fast
+1_Class_/fast:
+	$(MAKE) -f CMakeFiles/1_Class_.dir/build.make CMakeFiles/1_Class_.dir/build
+.PHONY : 1_Class_/fast
+
+Student.o: Student.cpp.o
+
+.PHONY : Student.o
+
+# target to build an object file
+Student.cpp.o:
+	$(MAKE) -f CMakeFiles/1_Class_.dir/build.make CMakeFiles/1_Class_.dir/Student.cpp.o
+.PHONY : Student.cpp.o
+
+Student.i: Student.cpp.i
+
+.PHONY : Student.i
+
+# target to preprocess a source file
+Student.cpp.i:
+	$(MAKE) -f CMakeFiles/1_Class_.dir/build.make CMakeFiles/1_Class_.dir/Student.cpp.i
+.PHONY : Student.cpp.i
+
+Student.s: Student.cpp.s
+
+.PHONY : Student.s
+
+# target to generate assembly for a file
+Student.cpp.s:
+	$(MAKE) -f CMakeFiles/1_Class_.dir/build.make CMakeFiles/1_Class_.dir/Student.cpp.s
+.PHONY : Student.cpp.s
 
 main.o: main.cpp.o
 
@@ -129,7 +156,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/1_Class_.dir/build.make CMakeFiles/1_Class_.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -138,7 +165,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/1_Class_.dir/build.make CMakeFiles/1_Class_.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -147,7 +174,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/1_Class_.dir/build.make CMakeFiles/1_Class_.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -158,7 +185,10 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... untitled"
+	@echo "... 1_Class_"
+	@echo "... Student.o"
+	@echo "... Student.i"
+	@echo "... Student.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

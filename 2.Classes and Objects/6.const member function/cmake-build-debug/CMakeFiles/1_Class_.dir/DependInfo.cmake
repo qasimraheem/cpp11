@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/main.cpp" "/Users/qasim/Desktop/cpp11/2.Classes and Objects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+  "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/Student.cpp" "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/cmake-build-debug/CMakeFiles/1_Class_.dir/Student.cpp.o"
+  "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/main.cpp" "/Users/qasim/Desktop/cpp11/2.Classes and Objects/6.const member function/cmake-build-debug/CMakeFiles/1_Class_.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
