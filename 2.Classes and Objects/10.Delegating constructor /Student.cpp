@@ -7,7 +7,7 @@
 Student::Student():Student(0){//constructor
     cout<<"\nStudent";
 }
-Student::Student(string name):Student(name,0,0.0) {//constructor by arguments://call to delegating constructor
+Student::Student(string name):Student(name,0,0.0) {//constructor by arguments://call to delegating constructor c++11
 
 }
 Student::Student(int age):Student("",age,0.0){//constructor by arguments://call to delegating constructor
