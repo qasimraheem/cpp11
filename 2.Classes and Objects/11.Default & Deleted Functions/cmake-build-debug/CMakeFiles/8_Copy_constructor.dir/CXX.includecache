@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/11.Default & Deleted Functions/Integer.cpp
+Integer.h
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/11.Default & Deleted Functions/Integer.h
+
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/11.Default & Deleted Functions/Integer.h
+
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/11.Default & Deleted Functions/main.cpp
+iostream
+-
+Integer.h
+/Users/qasim/Desktop/cpp11/2.Classes and Objects/11.Default & Deleted Functions/Integer.h
+
