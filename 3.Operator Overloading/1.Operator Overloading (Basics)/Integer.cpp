@@ -28,3 +28,16 @@ Integer Integer::operator+(const Integer & a) {
     *temp.pint= *pint - *a.pint;
     return temp;
 }
+
+Integer &Integer::operator++() {
+    ++(*pint);
+    return *this;
+}
+
+Integer Integer::operator++(int) {
+    Integer temp(*this);
+    ++(*pint);
+    return temp;
+}
+
+

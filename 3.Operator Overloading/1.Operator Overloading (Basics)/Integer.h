@@ -15,7 +15,9 @@ public:
     int getvalue()const;
     void setvalue(int i);
     ~Integer();//destructor
-    Integer operator +(const Integer &);
+    Integer operator +(const Integer &);//add
+    Integer & operator ++();//pre
+    Integer operator ++(int);//post
 };
 
 
