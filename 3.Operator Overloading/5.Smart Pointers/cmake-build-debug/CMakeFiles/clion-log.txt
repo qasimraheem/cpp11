@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/qasim/Desktop/cpp11/3.Operator Overloading/5.Smart Pointers"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/qasim/Desktop/cpp11/3.Operator Overloading/5.Smart Pointers/cmake-build-debug

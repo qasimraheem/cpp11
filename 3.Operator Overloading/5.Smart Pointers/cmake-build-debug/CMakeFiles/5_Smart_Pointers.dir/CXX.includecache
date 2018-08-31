@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/5.Smart Pointers/Integer.cpp
+Integer.h
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/5.Smart Pointers/Integer.h
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/5.Smart Pointers/Integer.h
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/5.Smart Pointers/main.cpp
+iostream
+-
+memory
+-
+Integer.h
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/5.Smart Pointers/Integer.h
+
