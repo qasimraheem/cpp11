@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/3.Global Overloads/Integer.cpp
+Integer.h
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/3.Global Overloads/Integer.h
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/3.Global Overloads/Integer.h
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/3.Global Overloads/main.cpp
+iostream
+-
+Integer.h
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/3.Global Overloads/Integer.h
+
