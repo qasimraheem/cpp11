@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/4.Friend Keyword/Integer.cpp
+Integer.h
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/4.Friend Keyword/Integer.h
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/4.Friend Keyword/Integer.h
+iostream
+-
+string
+-
+
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/4.Friend Keyword/main.cpp
+iostream
+-
+Integer.h
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/4.Friend Keyword/Integer.h
+
