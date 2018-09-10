@@ -1,0 +1,3 @@
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/7.parimitive to user type/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/7.parimitive to user type/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qasim/Desktop/cpp11/3.Operator Overloading/7.parimitive to user type/cmake-build-debug/CMakeFiles/8_Copy_constructor.dir
